@@ -1,0 +1,15 @@
+ETTh1_96_48_Autoformer_ETTh1_ftS_sl96_ll48_pl48_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_'Exp'_0  
+mse:0.08318132162094116, mae:0.23181019723415375
+
+ETTh1_96_24_Autoformer_ETTh1_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_'Exp'_0  
+mse:0.46851158142089844, mae:0.46337437629699707
+
+ETTh1_96_24_Autoformer_ETTh1_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_'Exp'_0  
+mse:0.4598018527030945, mae:0.45360419154167175
+
+ETTh1_96_24_Autoformer_ETTh1_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_'Exp'_0  
+mse:0.4647601544857025, mae:0.4628289043903351
+
+weather_96_96_Autoformer_custom_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc3_ebtimeF_dtTrue_'Exp'_0  
+mse:0.26296210289001465, mae:0.33342909812927246
+
